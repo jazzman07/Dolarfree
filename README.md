@@ -13,7 +13,7 @@
   If you use a Debian-based distro it's just download the .deb file and run "dpkg -i dfree_v1.0.deb". But if you use a other distro you just can build from source.
               
      
-  Exemples of outputs:
+#### Exemples of outputs:
               
               dfree ETH-USD
 ![eth](https://user-images.githubusercontent.com/82219902/132650736-96ebf8ea-fe0a-49f9-9e47-594eaeb5db06.png)
