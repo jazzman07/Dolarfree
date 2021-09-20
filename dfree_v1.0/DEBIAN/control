@@ -1,8 +1,0 @@
-Package: dfree
-Version: 1.0
-License: GPLv3
-Architecture: all
-Maintainer: Bernardo A bernardo.contato2020@gmail.com
-Bulid-depends: ${python3:Depends}, debhelper (>=10),  python3-all, python3-setuptools, python3-pandas, python3-tk, python3-matplotlib
-Installed-Size: in_kb
-Description: A simple way to see the exchanges price history.
