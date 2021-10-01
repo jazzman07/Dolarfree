@@ -1,6 +1,6 @@
 # $free version 1.0
 
- ####  $free is a python program that shows(by command line) cryptocurrencies and exchanges price in the last year(since 2021/1/1).
+####  $free is a python program that shows(by command line) cryptocurrencies and exchanges price in the last year(since 2021/1/1).
 
 #### Instalation
   The first step is install the dependencies, they are:
